@@ -1,9 +1,9 @@
 ## Chloe Wright
 
-<img src="SiteFiles/IMG_7501_Original.heic" align="left" width=150>&nbsp; Student<br/>
+<img src="IMG_7501_Original.heic" align="left" width=150>&nbsp; Student<br/>
 &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: chloejwright48@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp; [Resume](https://chloejw.github.io/Resume-Wright.pdf)
 
 <br/>
 <br/>
