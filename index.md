@@ -1,4 +1,3 @@
-## Chloe Wright
 
 <img src="https://chloejw.github.io/IMG_7501_Original.heic" align="left" width=150>&nbsp; Student<br/>
 &nbsp; Southern New Hampshire University <br/>
