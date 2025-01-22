@@ -1,6 +1,6 @@
 ## Chloe Wright
 
-<img src="IMG_7501_Original.heic" align="left" width=150>&nbsp; Student<br/>
+<img src="https://chloejw.github.io/IMG_7501_Original.heic" align="left" width=150>&nbsp; Student<br/>
 &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: chloejwright48@gmail.com<br/>
 &nbsp; &nbsp; [Resume](https://chloejw.github.io/Resume-Wright.pdf)
