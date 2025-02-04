@@ -1,18 +1,70 @@
-
-<img src="https://chloejw.github.io/chlophoto.jpg" align="left" width=150>&nbsp; Student<br/>
-&nbsp; Southern New Hampshire University <br/>
-&nbsp; &nbsp; email: chloejwright48@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://chloejw.github.io/Resume-Wright.pdf)
+<img src="https://chloejw.github.io/chlophoto.jpg" align="left" width=150>&nbsp; **Chloe Wright**  
+&nbsp; Southern New Hampshire University  
+&nbsp; [Email](mailto:chloejwright48@gmail.com) | [LinkedIn](https://linkedin.com/in/chloe-wright) | [Resume](https://chloejw.github.io/Resume-Wright.pdf)  
 
 <br/>
 <br/>
-<br/>
-<br/>
 
-### Welcome
+## 👋 Welcome!  
 
-Welcome to my page – a man of many talents, few inhibitions, and a boundless sense of humor! From crafting toys at the Happy-Go-Lucky Toy Factory to ensuring the quality of Quahog’s favorite brews at Pawtucket Brewery, I’ve built a career out of hard work, good laughs, and the occasional chicken fight. When I’m not on the job, you can find me spending time with my family, hosting impromptu karaoke nights, or dreaming up my next big idea. Grab a snack and stay a while – you never know what adventures we might embark on together!
+I'm Chloe Wright, a mathematics major with a passion for **data science, predictive modeling, and actuarial analysis**. Whether it's forecasting **medical costs**, predicting **delivery times**, or analyzing **real estate pricing trends**, I love uncovering insights through data.  
 
-### Sample Work Products
+With a background in **Python, R, SQL, and C++**, I thrive at the intersection of mathematics, technology, and business decision-making. Beyond the numbers, I lead as **President of Pi Mu Epsilon** and **Mathematics Major Ambassador at SNHU**, fostering a strong academic community.
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+---
+
+## 📊 Featured Projects  
+
+### **🏥 Medical Cost Prediction** *(R, Kaggle)*  
+**November 2024 – December 2024**  
+- Built a **linear regression model** predicting medical costs with **97% accuracy**.  
+- Conducted **EDA** to identify cost drivers like **age, BMI, and smoking status**.  
+- **Feature-engineered** categorical variables to enhance model interpretability.  
+- **Performance Metrics**: RMSE = **294**, R² = **0.97**.  
+- **Tools**: R, ggplot2, caret, dplyr  
+
+🔗 [Project Details](#)  
+
+### **🚀 DoorDash Delivery Time Prediction** *(R, Kaggle)*  
+**September 2024 – December 2024**  
+- Designed a **predictive model** ranking **2nd out of 15 competitors** (RMSE = **15.0143**).  
+- Cleaned and structured a dataset of **5,000+ deliveries**, improving data integrity.  
+- Used **regression analysis** and **cross-validation** to optimize model performance.  
+- **Tools**: R, ggplot2, tidymodels  
+
+🔗 [Project Details](#)  
+
+---
+
+## 💼 Work Experience  
+
+### **Server | 110 Grill, Manchester, NH** *(March 2023 – Present)*  
+- Managed **high-volume tables** while maintaining **exceptional customer service**.  
+- Coordinated with **kitchen & service teams** for accurate and timely food delivery.  
+- Handled **cash & credit transactions**, ensuring 100% accuracy in drawer counts.  
+
+---
+
+## 🎓 Leadership & Education  
+
+### **President, Pi Mu Epsilon (Mathematics Honor Society)**  
+*August 2024 – Present*  
+- Organize **monthly academic events** to engage students and faculty.  
+- Send out **weekly newsletters** highlighting research opportunities and resources.  
+
+### **Mathematics Major Ambassador, SNHU**  
+*August 2024 – Present*  
+- Lead outreach efforts to connect students with faculty & career opportunities.  
+- Foster a **supportive mathematics community** through mentoring and networking.  
+
+---
+
+## 🎯 Technical Skills  
+
+**Languages**: Python, R, SQL, C++  
+**Tools & Libraries**: ggplot2, tidymodels, caret, pandas, NumPy, Matplotlib  
+**Concepts**: Regression Analysis, Predictive Modeling, Data Cleaning, Statistical Analysis  
+
+---
+
+Thanks for stopping by! Feel free to explore my projects, connect with me, or reach out for collaborations. 🚀  
