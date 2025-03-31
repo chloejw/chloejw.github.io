@@ -8,8 +8,6 @@
 <br/>
 
 
-
-##  Welcome!  
-
 I'm Chloe Wright, a mathematics major with a passion for **data science, and predictive modeling**. 
 With a background in **Python, R, SQL, and C++**, I thrive at the intersection of mathematics, technology, and business decision-making. Beyond the numbers, I lead as **President of Pi Mu Epsilon** and as a **Mathematics Major Ambassador at SNHU**, fostering a strong academic community.
+
